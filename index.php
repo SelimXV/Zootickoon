@@ -18,10 +18,10 @@ $image = 'zèbre.jpg';
 $message = 'Good morning! Here is a zebra.';
 } elseif ($heure >= 12 && $heure < 18) {
 $image = 'Girafe.jpg';
-$message = 'Bon aprem ! Voici une girafe.';
+$message = 'Good Afternoon ! Voici une girafe.';
 } else {
 $image = 'Panda.jpg';
-$message = 'Good noon! Here is a panda.';
+$message = 'Good night! Here is a panda.';
 }
 ?>
 
