@@ -6,5 +6,5 @@ Projet d'école rassemblant les langages JS, CSS, HTML, PHP &amp; SQL.
   
  * Cliquez ensuite sur le dossier ou vous avez mis les différents fichiers et profitez du site.
 ## Langages utilisés  
-* Langage de programmation utilisé : <code>HTML, CSS, JS, PHP, SQL</code>
+* Langages de programmation utilisés : <code>HTML, CSS, JS, PHP, SQL</code>
 * Logiciel utilisé : **IntelliJ IDEA 2023**
